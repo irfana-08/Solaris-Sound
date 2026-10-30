@@ -1,0 +1,6 @@
+{
+  "name": "Solaris Music Player",
+  "description": "3D Cover Flow music player featuring rich orange and yellow gradient themes, responsive mobile and desktop layouts, playlist management, audio controls, and real-time audio visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
